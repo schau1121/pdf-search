@@ -1,0 +1,25 @@
+.search {
+    max-width: 70%;
+}
+
+.dashboard {
+    display: table;
+    width: 100%;
+}
+
+.sidebar {
+    padding: 10px;
+    width: 250px;
+    height: 100vh;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    display: table-cell;
+    vertical-align: top;
+    padding-right: 20px;
+}
+
+.dashboard-content {
+    vertical-align: top;
+    display: table-cell;
+    padding-top: 25px;
+}
